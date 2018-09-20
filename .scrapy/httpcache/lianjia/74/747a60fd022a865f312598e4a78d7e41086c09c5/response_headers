@@ -1,0 +1,6 @@
+Date: Mon, 22 Jan 2018 13:31:46 GMT
+Server: Tengine
+Set-Cookie: select_city=310000; Domain=.lianjia.com; Path=/
+Set-Cookie: cityCode=sh; Domain=.lianjia.com; Path=/
+Set-Cookie: lianjia_uuid=cef6a8fd-6032-4793-a65d-cfe50d7732de; Domain=.lianjia.com; Expires=Sat, 21-Jan-2023 13:31:46 GMT; Path=/
+Location: http://sh.lianjia.com/ershoufang/
